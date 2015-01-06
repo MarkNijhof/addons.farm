@@ -82,7 +82,9 @@ header h2 {
 .product {
     position: relative;
     float: left;
-    width: 49%;
+    width: 265px;
+    margin: 5px;
+    padding: 10px;
     border: solid 1px grey;
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
